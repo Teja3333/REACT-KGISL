@@ -18,8 +18,3 @@ function Timer() {
   );
 }
 export default Timer;
-
-
-
-
-// This is a dummy comment
